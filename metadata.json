@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard de Clientes",
+  "description": "Painel de controle visual e interativo para acompanhamento do status restrito de projetos e de planos de ação táticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
